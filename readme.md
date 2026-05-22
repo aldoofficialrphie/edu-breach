@@ -1,4 +1,4 @@
-# ⚡ EduBreach — Official Educational Database Utility ⚡
+# ⚡ EduBreach — Official Database Utility ⚡
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Verified-success?style=for-the-badge&logo=shield" alt="Verified">
@@ -9,14 +9,14 @@
 ---
 
 ## 📌 Deskripsi Alat
-**EduBreach** adalah alat pemindai database pendidikan yang dirancang untuk kebutuhan verifikasi data siswa secara cepat dan efisien. Alat ini memungkinkan pengguna untuk melakukan penelusuran identitas pendidikan dengan akurasi tinggi menggunakan indeks data yang terstruktur.
+**EduBreach** adalah Security Utility berbasis CLI yang dirancang khusus untuk melakukan verifikasi dan penelusuran terhadap Database Breach (kebocoran data) siswa dan siswi di berbagai instansi sekolah di Indonesia.
 
 ---
 
 ## 🛡️ Otentisitas & Validitas Data
 > [!IMPORTANT]
 > **PERNYATAAN RESMI:**
-> Seluruh rangkaian data yang terkandung di dalam basis data EduBreach ini bersifat **resmi, valid, dan telah terverifikasi secara sah melalui sistem Kementerian Pendidikan**. Kami menjamin integritas dan keakuratan informasi yang disajikan dalam sistem ini.
+> Seluruh rangkaian data yang terkandung di dalam basis data EduBreach ini bersifat **resmi, valid, dan telah terverifikasi secara sah melalui sistem Kementerian Pendidikan**.
 
 ---
 
@@ -41,7 +41,7 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 git clone [https://github.com/aldoofficialrphie/EduBreach](https://github.com/aldoofficialrphie/EduBreach)
 cd EduBreach
-python index.py
+python index.py```
 
 ### 👨‍💻 Profil Pengembang
 
