@@ -1,4 +1,4 @@
-# ⚡ EduBreach — Official Database Utility ⚡
+# ⚡ EduBreach — Database Utility ⚡
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Verified-success?style=for-the-badge&logo=shield" alt="Verified">
