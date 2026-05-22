@@ -44,6 +44,6 @@ Pastikan Python sudah terinstal di perangkat Anda:
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/aldoofficialrphie/EduBreach](https://github.com/aldoofficialrphie/EduBreach)
-cd EduBreach
+git clone https://github.com/aldoofficialrphie/edu-breach
+cd edu-breach
 python index.py
